@@ -103,7 +103,7 @@ When the **Close** button is pressed:
 #  Simulation (Wokwi)
 
 ### Simulation Image
-`<INSERT-WOKWI-SIMULATION-IMAGE-LINK-HERE>`
+<img width="956" height="506" alt="Simulation Image" src="https://github.com/user-attachments/assets/0df82243-ab22-437d-b722-ebcc48f1bfc0" />
 
  Simulation Video:
 
