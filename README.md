@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/f5e275e1-4a69-4dd6-a553-d60c18b9f3f2
 #  Physical Build
 
 ### Real Hardware Image
-`<INSERT-PHYSICAL-HARDWARE-IMAGE-LINK-HERE>`
+<img width="166" height="308" alt="Real Hardware Image" src="https://github.com/user-attachments/assets/e7648f20-e9b3-47ca-9d36-5e92e2ff829b" />
 
 The physical circuit was built after verifying the design in Wokwi.
 
