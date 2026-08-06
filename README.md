@@ -102,12 +102,24 @@ When the **Close** button is pressed:
 
 #  Simulation (Wokwi)
 
+The project was simulated and tested using Wokwi before the physical implementation.
+
 ### Simulation Image
+
 <img width="956" height="506" alt="Simulation Image" src="https://github.com/user-attachments/assets/0df82243-ab22-437d-b722-ebcc48f1bfc0" />
 
- Simulation Video:
 
-https://github.com/user-attachments/assets/f5e275e1-4a69-4dd6-a553-d60c18b9f3f2
+### Wokwi Simulation Link
+[
+[https://wokwi.com/projects/471489008441161729
+](https://wokwi.com/projects/471489008441161729)](https://wokwi.com/projects/471489008441161729)
+
+### Simulation Video
+
+
+
+https://github.com/user-attachments/assets/4a09040c-9feb-48b2-9621-93ebbd10c73d
+
 
 ---
 
